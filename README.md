@@ -1,5 +1,5 @@
 # To-Do-List
 
--- OOP
+- OOP
 
--- SQLAlchemy - SQLite
+- SQLAlchemy + SQLite
